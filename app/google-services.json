@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "537651588058",
+    "firebase_url": "https://tiketjadi-5b0f4.firebaseio.com",
+    "project_id": "tiketjadi-5b0f4",
+    "storage_bucket": "tiketjadi-5b0f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537651588058:android:ab9b020d0cf6b276",
+        "android_client_info": {
+          "package_name": "com.example.fghilmany.myticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537651588058-noa5orp71p4f2qdu8n68hspnp152l0mv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fghilmany.myticket",
+            "certificate_hash": "b4741403c9f31dcca872b54212439c4784f9937a"
+          }
+        },
+        {
+          "client_id": "537651588058-18c75vdv30m11im066gb9kqo3v0tov7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw7dPO0wN5etKy3FA23H9169SjG6c8D-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537651588058-18c75vdv30m11im066gb9kqo3v0tov7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
